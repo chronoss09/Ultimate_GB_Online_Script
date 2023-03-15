@@ -11,6 +11,8 @@ De quoi ce script est capable :
 * Créer des NSP des jeux Game Boy et Game Boy Color utilisable directement depuis le menu de la Switch
 * Supprimer l'icône du profil qui se situe en haut côté gauche quand vous joué à un jeu
 * Supprimer le fond d'écran de l'émulateur afin de jouer sur un fond noir
+* Sauvegarder votre liste de jeux injecté
+* Restaurer votre liste de jeu sauvegardé précédement
 
 Big Merci à __Markus95__ pour la version original du script
 
