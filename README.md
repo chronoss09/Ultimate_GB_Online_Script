@@ -9,8 +9,8 @@ De quoi ce script est capable :
 * Ajouter des jeux Game Boy Advance
 * Créer sa propre liste des jeux GB/GBC/GBA sans les jeux originaux
 * Créer des NSP des jeux Game Boy et Game Boy Color utilisable directement depuis le menu de la Switch
-* Supprimer l'icône du profil qui se situe en haut côté gauche de l'écran quand vous joué à un jeu
-* Supprimer les bordures d'écran de l'émulateur afin de jouer sur un fond noir
+* Supprimer l'icône du profil qui se situe en haut côté gauche de l'écran quand vous joué à un jeu _(darkakuma.z mod)_
+* Supprimer les bordures d'écran de l'émulateur afin de jouer sur un fond noir _(darkakuma.z mod)_
 * Sauvegarder votre liste de jeux injectée
 * Restaurer votre liste de jeu sauvegardée précédemment
 
