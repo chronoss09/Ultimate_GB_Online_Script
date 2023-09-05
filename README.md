@@ -1,6 +1,6 @@
 # Ultimate GB Online Script
 Ajouter des jeux GB/GBC/GBA dans Nintendo Online  
-![PICTURE](https://img.shields.io/github/downloads/chronoss09/Ultimate_GB_Online_Script/tree/ultimate) [![Buy me a coffee](https://img.shields.io/badge/Donate-Paypal-blue.svg)](https://www.paypal.com/paypalme/chronoss01)  [![Buy me a coffee](https://img.shields.io/badge/Donate-Kofi-orange.svg)](https://ko-fi.com/chronoss) 
+[![Github all releases](https://img.shields.io/github/downloads/chronoss09/Ultimate_GB_Online_Script/ultimate/total)](https://github.com/chronoss09/Ultimate_GB_Online_Script/releases/tag/ultimate) [![Buy me a coffee](https://img.shields.io/badge/Donate-Paypal-blue.svg)](https://www.paypal.com/paypalme/chronoss01)  [![Buy me a coffee](https://img.shields.io/badge/Donate-Kofi-orange.svg)](https://ko-fi.com/chronoss) 
 
 ![PICTURE](https://github.com/chronoss09/Ultimate_GB_Online_Script/blob/main/Capture.PNG)
 
